@@ -11,3 +11,5 @@ export default function Titulo(props) {
     </>
   );
 }
+
+// aplicado no basics/usandotitulo
