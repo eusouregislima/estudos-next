@@ -1,0 +1,14 @@
+Criando um projeto next do zero
+npx create-next-app <nome do diretório>
+npm run dev
+
+Ao criar um arquivo em pages e criar uma função, esta tem que exportar por default
+O Next cria uma rota com o nome do arquivo e já renderiza
+localhost:3000/first
+Se o arquivo for para dentro de uma pasta, vai seguir a mesma lógica
+
+Conceito
+JSX -> É uma extensão que permite que eu use html dentro do javascript (pseudo html)
+Colocando o arquivo com a extensão .jsx ele já entende que vou usar jsx e quando eu colocar
+somente o nome da tag ele monta para mim, nome da tag # algo ele monta a tag com id e nome da tag . algo
+ele monta a tag com classe.
